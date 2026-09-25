@@ -7,7 +7,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog-config-spec/blob/master/versions/2.2.0/README.md),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [v0.1.0](https://github.com/liblaf/cache/releases/tag/v0.1.0) - 2026-09-03
+## [v0.1.1](https://github.com/liblaf/cache/releases/tag/v0.1.1) - 2026-09-25
+
+### 🐛 Bug Fixes
+
+- **(deps)** update dependency filelock to v4 (#21) - [ec98070](https://github.com/liblaf/cache/commit/ec9807089b98d574f9e13967f5c1cc16788c2f63) by [@renovate[bot]](https://github.com/apps/renovate)
+
+### ❤️ Contributors
+
+- [@renovate[bot]](https://github.com/apps/renovate) made their first contribution in [#21](https://github.com/liblaf/cache/pull/21)
+
+## [v0.1.0](https://github.com/liblaf/cache/releases/tag/v0.1.0) - 2026-09-06
 
 ### 💥 BREAKING CHANGES
 
@@ -28,4 +38,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### ❤️ Contributors
 
+- [@liblaf-release-please[bot]](https://github.com/apps/liblaf-release-please) made their first contribution in [#19](https://github.com/liblaf/cache/pull/19)
 - [@liblaf](https://github.com/liblaf) made their first contribution
