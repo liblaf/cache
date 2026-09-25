@@ -26,7 +26,7 @@ classifiers = [
 ]
 dependencies = [
   "anyio>=4.12,<5",
-  "filelock>=3.16,<4",
+  "filelock>=4,<5",
   "joblib>=1.6,<2",
   "msgspec>=0.19,<1",
   "platformdirs>=4.3,<5",
